@@ -16,10 +16,10 @@ Oferecido pela plataforma dio.me, a introdução sobre o tema trouxe consigo con
 
 ### Instância - classe - local - parâmetro
 
-* <?visibilidade?>
-* <?modificador?>
-* <?tipo nome?>
-* <?valor inicial?>
+* visibilidade
+* modificador
+* tipo nome
+* valor inicial
 
 Tipificação:
 
