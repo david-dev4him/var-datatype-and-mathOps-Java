@@ -22,7 +22,7 @@ public class Main {
 
         asrn24678nd = 100;
 
-        int quantidadeProduto  = 50;
+        int quantidadeProduto = 50;
         final int NUMERO_TENTATIVAS = 5;
         final int numero_tentativas = 5;
         int QUANTIDADE_OPCOES = 25;
@@ -38,6 +38,6 @@ public class Main {
         System.out.println(NUMERO_TENTATIVAS);
         System.out.println(QUANTIDADE_OPCOES);
 
-
     }
 }
+
